@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+}
+body{
+    align-items: center;
+}
+.header{
+    font-size: 5vh;
+    background-color: yellow;
+    padding-left: 2vh;
+    height: 8vh;
+}
+.additem{
+    margin: 3vh;
+    text-align: center;
+    
+}
+.additem input{
+    font-size: 4vh;
+    border: none;
+    border-bottom: 1vh solid yellow;
+    outline: none;
+}
+.additem button{
+    margin-left: 2vh;
+    margin-top:2vh;
+    border-radius: 100%;
+    font-size: 4vh;
+    background-color: yellow;
+}
+.item{
+    text-align: center;
+    font-size: 4vh;
+    margin: 2vh;
+}
+.item span{
+
+    padding-left: 2vh;
+    padding-right: 2vh;
+    background-color: yellow;
+
+}
+.item button{
+    margin-left: 2vh;
+    border:none;
+    font-size: 3vh;
+    background-color: yellow;
+   
+}
